@@ -1,0 +1,480 @@
+body{
+    margin: auto;
+}
+
+.logo{
+    width:130px;
+    height:auto;
+    margin-left: 30px;
+    
+
+}
+
+.nav-item{
+    padding-right: 90px;
+    text-align: center;
+   
+    
+
+}
+
+
+.navbar-nav{
+    margin: auto;
+    text-align:center;
+    
+
+}
+
+.top-container{
+   
+    position: relative;
+    height:800px;
+}
+
+.nav-link{
+  color: beige;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+
+}
+
+.navbar{
+   z-index: 1;
+    
+}
+
+.carousel{
+    width: 100%;
+    position: absolute;
+    top:0;
+}
+
+.mission-vision{
+    position: absolute;
+    left: 180px;
+    top:200px;
+
+}
+
+h1{
+    color:beige;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    margin:0;
+    padding-top: 100px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    font-weight: 800;
+
+}
+
+h2{
+    margin: 0;
+    text-align: center;
+    padding-left: 500px;
+    padding-bottom: 100px;
+    font-weight: 900;
+    font-size: 50px;
+    font-family: 'Montagu Slab', serif;
+}
+
+.middle-container{
+    background-color: #FAF7F0;
+    padding-left: 10px;
+    padding-top:150px;
+    padding-bottom: 150px;
+  
+   
+    
+
+}
+
+.join-us{
+    text-align: center;
+    padding-top: 30px;
+    color: beige;
+    margin:0;
+}
+
+.btn{
+    color: beige;
+    margin-top: 80px;
+    padding-left:20px;
+    padding-right: 20px;
+    margin-left: 450px;
+}
+
+.btn-outline-secondary{
+    border: solid 2px;
+}
+
+.btn:hover{
+    color:gray;
+    background-color: beige;
+}
+
+.prayer{
+    border-radius: 50%;
+    width:30%;
+    height:auto;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.fa-book-open-reader{
+    color:#0d4a5c;
+    opacity:0.4;
+    padding-left: 120px;
+}
+
+.fa-hands-praying{
+    color:#0d4a5c;
+    opacity:0.4;
+    padding-left: 120px;
+
+}
+
+.fa-hands-praying:hover{
+    color:aqua;
+}
+
+.fa-handshake{
+    color:#0d4a5c;
+    opacity: 0.4;
+    padding-left: 120px;
+}
+
+.fa-hand-holding-heart{
+    color:#0d4a5c;
+    opacity: 0.4;
+    text-align: center;
+    padding-left: 120px;
+    
+}
+
+
+p{
+    text-align: center;
+}
+
+h3{
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Montagu Slab', serif;
+    color:#0d4a5c;
+}
+
+.bible-verse{
+   background-color: #FAF7F0;
+   color: white;
+   font-size: 20px;
+   font-family: 'Montserrat', sans-serif;
+   font-style: normal;
+   line-height: 1.5;
+   padding-top: 20px;
+   padding-left:20px;
+   text-align: justify !important;
+   
+
+   
+}
+
+/* overrides an in-line css*/
+.bible-verse a{
+    color:#0d4a5c !important;
+    font-size: 15px !important;
+    background-color: #FAF7F0 !important; 
+    
+}
+
+.verse-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    color:#0d4a5c;
+}
+
+
+.verse-img{
+    width:720px;
+    margin-left: 0;
+}
+
+.img-verse{
+    padding-left: 0;
+    padding-right:0;
+}
+
+.verse-footer{
+    text-align:center;
+    color:#0d4a5c;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    padding-top:15px;
+}
+
+.verse{
+    color:#0d4a5c;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+}
+
+.fa-quote-right{
+    float:right;
+    padding-right:30px;
+    color:#0d4a5c;
+}
+
+.fa-quote-left{
+    padding-left:30px;
+    color:#0d4a5c;
+}
+
+.services{
+    background-color: #0d4a5c;
+    padding:70px;
+    margin:auto;
+
+}
+
+.footer{
+    background-color: #0d4a5c;
+}
+
+h4{
+    margin:0;
+    text-align: center;
+    padding-top: 30px;
+    color:#FAF7F0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+}
+
+.worship-image{
+    border-radius: 10%;
+    width:70%;
+    display: block;
+    border: solid #FAF7F0 2px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.services-heading{
+    color: #FAF7F0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    
+}   
+
+.contact-footer{
+    color: #FAF7F0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    display: block;
+    margin: auto;
+}
+
+h5{
+    margin:auto;
+    font-size: 50px;
+    display: block;
+    padding-left:30px;
+}
+
+.fa-location-dot{
+    display: inline-block;
+    color: #FAF7F0;
+    padding:30px;
+}
+
+.fa-envelope{
+    display: inline-block;
+    color: #FAF7F0;
+    padding:30px;
+}
+
+
+.fa-phone{
+    display: inline-block;
+    color: #FAF7F0;
+    padding:30px;
+}
+
+.copyright{
+    background-color: #0d4a5c;
+    opacity: 0.9;
+    color:  #FAF7F0;
+    padding: 15px;
+}
+.address{
+    display: inline-block;
+    color: #FAF7F0;
+    font-size: 16px;
+}
+
+.address a{
+    color: #FAF7F0;
+}
+
+.icons{
+    padding: 50px;;
+}
+
+
+.ls-logo{
+    width:100%;
+    height:auto;
+    
+    
+
+}
+
+.icons-footer{
+    list-style: none;
+    padding-left: 0;
+    
+  
+  
+    
+    
+}
+
+.icons-list{
+    display: inline-block;
+    margin-top: 0;
+    padding-left: 100px;
+   
+}
+
+.icons-list-1{
+    display: inline-block;
+    margin-top: 0;
+    padding-left: 20px;
+}
+
+.icons-footer a{
+    color: #FAF7F0;
+    padding-top:0px;
+    text-align: center;
+}   
+    
+.social-handle{
+    color: #FAF7F0;
+    display: inline;
+    margin: auto;
+    text-align: center;
+    padding-left: 10px;
+    line-height: 2px;
+    justify-content: center;
+}
+
+.icons-wrap{
+  margin-top: 0;
+}
+
+.icon-nav{
+    padding-left: 40px;
+    margin: auto;
+   
+}
+
+.social-nav{
+    color: beige;
+}
+
+.img-about{
+   width:100%;
+    height: auto;
+}
+
+.about-img{
+    position: absolute;
+    top: 0;
+}
+
+.about-text{
+   font-size: 100px;
+   font-family: 'Montserrat', sans-serif;
+   font-style: normal;
+   color: beige;
+}
+
+.about-mission-vision{
+    position: absolute;
+    left: 180px;
+    top:300px;}
+
+.vision{
+    background-color: #FAF7F0;
+    padding-top:150px;
+    padding-bottom: 50px;
+    color: #0d4a5c;
+    text-align: center;
+    margin: auto;
+   
+   
+}
+
+.v1{
+    display: block;
+    
+    
+    padding-top: 150px;
+    margin: auto;
+
+}
+
+.v2{
+    display: inline-block;
+    padding-top: 150px;
+}
+
+.fa-1{
+    margin: auto;
+    display: inline-block;
+}
+
+.living{
+    display: inline-block;
+}
+
+.vision-heading{
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 80px;
+    color:#0d4a5c;
+}
+
+.values{
+    background-color: #FAF7F0;
+    padding-top:50px;
+    padding-bottom: 50px;
+    color: #0d4a5c;
+}
+
+.line{
+    border-style: dotted none none none;
+    width: 30%;
+    border-width: 8px;
+    background-color:  #FAF7F0;
+    border-color: #0d4a5c;
+    border-inline-color:  #FAF7F0;;
+    margin: auto;
+   
+}
+
+.featurette-divider {
+    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  }
+  
+  /* Thin out the marketing headings */
+  .featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    color: #0d4a5c;
+
+  }
